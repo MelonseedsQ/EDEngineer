@@ -150,7 +150,7 @@
       "pl": "Wzmocnione",
       "cs": "Reinforced",
       "nl": "Versterkt",
-      "cn": null,
+      "cn": "加强型",
       "tr": "Güçlendirilmiş"
     },
     "Sturdy Mount": {
@@ -186,7 +186,7 @@
       "pl": "Reinforced Shields",
       "cs": "Reinforced Shields",
       "nl": "Versterkte Schilden",
-      "cn": null,
+      "cn": "护盾加固",
       "tr": "Güçlendirilmiş Kalkanlar"
     },
     "Enhanced, Low Power Shields": {
@@ -210,7 +210,7 @@
       "pl": "Osłonięte",
       "cs": "Shielded",
       "nl": "Beschermd",
-      "cn": null,
+      "cn": "护盾",
       "tr": "Kalkanlı"
     },
     "Thermal Resistant": {
